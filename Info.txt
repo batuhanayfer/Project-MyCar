@@ -1,0 +1,15 @@
+batuh@DESKTOP-V15TGLP my main pc
+ssh picar@192.168.1.13 to connect to raspi
+picaristhebest is the parahpase
+The key's randomart image is:
++---[RSA 3072]----+
+|  . ...          |
+|   + .o          |
+|  =  . .         |
+| . o.            |
+|. .. .  S        |
+|..o o + .o       |
+|. .* +o+oo.      |
+| .+.E.=OXo       |
+| oo+=X=OX+       |
++----[SHA256]-----+
