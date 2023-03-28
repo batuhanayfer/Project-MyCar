@@ -9,3 +9,5 @@ Date: [28.03.2023]
 """
 
 # Import required modules here
+import smbus2
+from gpiozero import *
