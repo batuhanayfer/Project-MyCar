@@ -1,23 +1,19 @@
-import cv2
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
 
-# Open a connection to the camera
-camera = cv2.VideoCapture(0)
+"""
+[This is the main control module for the RaspiCar]
 
-# Loop until the user closes the window
-while True:
-    # Capture a frame from the camera
-    ret, frame = camera.read()
+Author: [Batuhan Ayfer]
+Date: [28.03.2023]
+"""
 
-    # Display the frame
-    cv2.imshow("Camera Feed", frame)
+# Import required modules here
 
-    # Check for a keypress
-    key = cv2.waitKey(1) & 0xFF
 
-    # If the 'q' key is pressed, break out of the loop
-    if key == ord('q'):
-        break
+def main():
+    # Write your code here
 
-# Release the camera and close the window
-camera.release()
-cv2.destroyAllWindows()
+
+if __name__ == '__main__':
+    main()

@@ -16,3 +16,14 @@ Package List :
     Cross Screwdrive×1 
     Several wires,Needed screws, nuts, Wrenches and standoffs
 
+
+Software : 
+    i2c.py      : I2C communication for PCA9685
+    servo.py    : set and control servos
+    motor.py    : control motors
+    uart.py     : Bluuetooth connection
+    camera.py   : Camera control
+    main.py     : controls the car
+    
+    
+
